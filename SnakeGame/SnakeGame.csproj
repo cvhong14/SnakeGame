@@ -75,6 +75,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="HelloWorld.js" />
+    <Content Include="SnakeGame.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
